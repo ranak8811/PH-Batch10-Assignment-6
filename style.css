@@ -1,0 +1,7 @@
+.active-div {
+  border-radius: 120px;
+  background-color: rgba(14, 122, 129, 0.1);
+  text-align: center;
+  padding: 24px 12px;
+  border: 1px solid #0e7a81;
+}
